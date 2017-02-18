@@ -1,4 +1,4 @@
-.card:hover{
+.card:active{
 	transform: rotateY(180deg);
 }
 
